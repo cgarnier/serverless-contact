@@ -1,0 +1,16 @@
+{
+  "name": "serverless-contact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.72.0",
+    "dotenv": "^4.0.0",
+    "markup-js": "^1.5.21"
+  }
+}
